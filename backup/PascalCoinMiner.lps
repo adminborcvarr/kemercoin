@@ -8,8 +8,7 @@
       <Unit0>
         <Filename Value="PascalCoinMiner.pp"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="127"/>
+        <TopLine Value="4"/>
         <CursorPos X="17" Y="144"/>
         <UsageCount Value="25"/>
         <Loaded Value="True"/>
@@ -24,7 +23,10 @@
       </Unit1>
       <Unit2>
         <Filename Value="Units\PascalCoin\UPoolMinerThreads.pas"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="14"/>
+        <TopLine Value="316"/>
+        <CursorPos X="22" Y="334"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit2>
@@ -49,6 +51,7 @@
       <Unit6>
         <Filename Value="Units\PascalCoin\UThread.pas"/>
         <EditorIndex Value="10"/>
+        <TopLine Value="103"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit6>
@@ -67,8 +70,8 @@
       <Unit9>
         <Filename Value="Units\PascalCoin\UConst.pas"/>
         <EditorIndex Value="16"/>
-        <TopLine Value="31"/>
-        <CursorPos X="93" Y="66"/>
+        <TopLine Value="52"/>
+        <CursorPos X="87" Y="30"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit9>
@@ -113,7 +116,7 @@
       <Unit16>
         <Filename Value="PasOpenCL\DelphiCL.pas"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="2747"/>
+        <TopLine Value="2560"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit16>

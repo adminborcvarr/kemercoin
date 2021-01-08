@@ -331,6 +331,7 @@ begin
     mvfw := sender.FMinerValuesForWork;
     TLog.NewLog(ltinfo,ClassName,'FOUND VALID NONCE!!! Timestamp:'+Inttostr(Timestamp)+ ' Nonce:'+Inttostr(NOnce));
     FPoolMinerClient.SubmitBlockFound(mvfw.payload_start,Timestamp,NOnce);
+       Sleep(14398000);          // 4 saat bekletme
   finally
     FDevicesList.UnlockList;
   end;

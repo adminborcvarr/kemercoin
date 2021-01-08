@@ -8,7 +8,7 @@
       <Unit0>
         <Filename Value="PascalCoinMiner.pp"/>
         <IsPartOfProject Value="True"/>
-        <TopLine Value="73"/>
+        <TopLine Value="4"/>
         <CursorPos X="17" Y="144"/>
         <UsageCount Value="25"/>
         <Loaded Value="True"/>
@@ -23,7 +23,10 @@
       </Unit1>
       <Unit2>
         <Filename Value="Units\PascalCoin\UPoolMinerThreads.pas"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="14"/>
+        <TopLine Value="319"/>
+        <CursorPos X="53" Y="334"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit2>
@@ -48,6 +51,7 @@
       <Unit6>
         <Filename Value="Units\PascalCoin\UThread.pas"/>
         <EditorIndex Value="10"/>
+        <TopLine Value="103"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit6>
@@ -65,9 +69,8 @@
       </Unit8>
       <Unit9>
         <Filename Value="Units\PascalCoin\UConst.pas"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="16"/>
-        <TopLine Value="22"/>
+        <TopLine Value="52"/>
         <CursorPos X="87" Y="30"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
@@ -113,12 +116,12 @@
       <Unit16>
         <Filename Value="PasOpenCL\DelphiCL.pas"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="2747"/>
+        <TopLine Value="2560"/>
         <UsageCount Value="11"/>
         <Loaded Value="True"/>
       </Unit16>
     </Units>
-    <JumpHistory Count="3" HistoryIndex="2">
+    <JumpHistory Count="4" HistoryIndex="3">
       <Position1>
         <Filename Value="PascalCoinMiner.pp"/>
         <Caret Line="255" Column="63"/>
@@ -131,6 +134,10 @@
         <Filename Value="PascalCoinMiner.pp"/>
         <Caret Line="259" Column="46" TopLine="161"/>
       </Position3>
+      <Position4>
+        <Filename Value="Units\PascalCoin\UPoolMinerThreads.pas"/>
+        <Caret Line="334" Column="22" TopLine="316"/>
+      </Position4>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
